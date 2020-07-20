@@ -1,0 +1,1 @@
+# pkg-update--y-pkg-install-wget-curl-proot-tar--y-wget-https-raw.githubusercontent.com-Andron
